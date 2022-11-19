@@ -2,22 +2,29 @@
 
 # Hi, I am zwpride!👨‍🎓
 
-School at **HNU**，Major in **Software Engineering**💻
-  
-<a href="https://zwpride.top">zwpride's world</a>,this is my website.Maybe you can contact me with zwpride@163.com.
-
 </div>
 
-### 有趣的东西
+Graduated from Software Engineering of HNU and studing for the degree of master in Computer Science and Engineering, BUAA.
+
+You can get more about me at my website, <a href="https://zwpride.top">zwpride</a>.
+
+Contact me with zwpride@gmail.com if you are interested in something.
+
+
+### what i have done 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* intelligent search base on tobacco data
+* WIFI based indoor positioning
 * zwpride.top
-* QQrobot
+* internship management
+* future-robot
+* math-paper generator
 * jwxt_course
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### 无趣的灵魂
+### what i prepare to do
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* JDBC -> Hibernate -> Mybatis -> ?SQL
-* C/C++ -> STL -> ?
-* something interesting
+* C/C++ -> Qt
+* Java -> Spring Boot -> Mybatis（Spring JPA) -> Vue
+* now i am interested in NLP.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
