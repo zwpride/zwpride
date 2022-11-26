@@ -8,7 +8,7 @@ Graduated from Software Engineering of HNU and studing for the degree of master 
 
 You can get more about me at my website, <a href="https://zwpride.top">zwpride</a>.
 
-Contact me with zwpride@gmail.com if you are interested in something.
+Contact me with zwpride@gmail.com or zwpride@163.com if you are interested in something.
 
 
 ### what i have done 
