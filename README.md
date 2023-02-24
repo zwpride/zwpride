@@ -26,5 +26,5 @@ Contact me with zwpride@gmail.com or zwpride@163.com if you are interested in so
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * C/C++ -> Qt
 * Java -> Spring Boot -> Mybatis（Spring JPA) -> Vue
-* now i am interested in NLP.
+* now i am interested in CPP.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
