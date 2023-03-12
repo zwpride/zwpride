@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I am zwpride!👨‍🎓
+# Hi, I am kned!👨‍🎓
 
 </div>
 
