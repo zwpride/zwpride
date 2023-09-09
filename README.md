@@ -24,7 +24,6 @@ Contact me with zwpride@gmail.com or zwpride@163.com if you are interested in so
 
 ### what i prepare to do
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* C/C++ -> Qt
-* Java -> Spring Boot -> Mybatis（Spring JPA) -> Vue
-* now i am interested in CPP.
+i do not know, i just want to be a better man.
+That is all.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
