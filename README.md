@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I am kned!👨‍🎓
+# Hi, I am knediny!👨‍🎓
 
 </div>
 
