@@ -8,9 +8,6 @@ Graduated from Software Engineering of HNU and studing for the degree of master 
 
 You can get more about me at my website, <a href="https://zwpride.top">zwpride</a>.
 
-Contact me with knediny@gmail.com if you are interested in something.
-
-
 ### what i have done 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * intelligent search base on tobacco data
