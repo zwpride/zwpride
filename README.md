@@ -1,26 +1,19 @@
 <div align="center">
 
-# Hi, I am knediny!👨‍🎓
+# Hi, I am Wei Zhang!👋
 
 </div>
 
-Graduated from Software Engineering of HNU and studing for the degree of master in Computer Science and Engineering, BUAA.
+I graduated from software engineering of HNU and studing for the degree of master 👨‍🎓 in computer science and engineering, BUAA.
 
-You can get more about me at my website, <a href="https://zwpride.top">zwpride</a>.
+I'm a keen developer always looking to learn and grow. Welcome to my GitHub page!
 
-### what i have done 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* intelligent search base on tobacco data
-* WIFI based indoor positioning
-* zwpride.top
-* internship management
-* future-robot
-* math-paper generator
-* jwxt_course
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## 📈 My GitHub Stats
 
-### what i prepare to do
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-i do not know, i just want to be a better man.
-That is all.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+![knediny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwpride&show_icons=true&theme=tokyonight)
+
+## 📫 How to reach me
+
+You can contact me via:
+
+Email: zwpride@buaa.edu.cn
