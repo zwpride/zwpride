@@ -16,6 +16,6 @@ I am working for my project about Code&SE LLM.
 
 You can contact me via:
 
-Academic Email: zwpride[AT]buaa.edu.cn.
+Academic email: zwpride[AT]buaa.edu.cn.
 
 Personal email: zwpride[AT]gmail.com.
