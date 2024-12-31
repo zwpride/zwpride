@@ -4,9 +4,9 @@
 
 </div>
 
-I graduated from software engineering of HNU and studing for the degree of master 👨‍🎓 in computer science and engineering, BUAA.
+I am studing for the degree of master 👨‍🎓 in computer science and engineering, BUAA. 
 
-I'm a keen developer always looking to learn and grow. Welcome to my GitHub page!
+I am working for my project about Code&SE LLM.
 
 ## 📈 My GitHub Stats
 
@@ -16,4 +16,6 @@ I'm a keen developer always looking to learn and grow. Welcome to my GitHub page
 
 You can contact me via:
 
-Email: zwpride@buaa.edu.cn
+Academic Email: zwpride[AT]buaa.edu.cn.
+
+Personal email: zwpride[AT]gmail.com.
