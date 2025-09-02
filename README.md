@@ -4,7 +4,7 @@
 
 </div>
 
-I am studing for the degree of master 👨‍🎓 in computer science and engineering, BUAA. 
+I am studing for the degree of doctor 👨‍🎓 in computer science and engineering, BUAA. 
 
 I am working for my project about Code&SE LLM.
 
